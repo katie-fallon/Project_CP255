@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Modeling the Urban Heat Island Effect in Seattle
 
 You can use the [editor on GitHub](https://github.com/katie-fallon/Project_CP255/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

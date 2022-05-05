@@ -1,5 +1,5 @@
 # Predicting Heat: 
-# Modeling the Urban Heat Island Effect in Seattle
+## Modeling the Urban Heat Island Effect in Seattle
 
 ### RESEARCH QUESTION
 What areas of Seattle are more likely to experience hotter temperatures due to the Urban Heat Island Effect? 
@@ -7,19 +7,24 @@ What areas of Seattle are more likely to experience hotter temperatures due to t
 Urban Heat Islands (UHI), which cause higher temperatures in urban areas, are the result of a high concentration of impervious surfaces that absorb heat, density of buildings coupled with a lack of vegetation, and pollutants trapped in the atmosphere from industry and vehicle emissions. UHIs not only lead to warmer temperatures in cities but increase energy emissions and can lead to heat-related injuries and even death. While UHIs are not solely caused by Climate Change they are exasperated by an increased frequency of extreme heat events. This project attempts to model areas of the City that will be more vulnerable to higher temperatures by measuring risk factors.
 
 ### MOTIVATION
-Seattle has a historically temperate climate, but in recent years, due to anthropomorgenic climate change, the prevelence of extreme weather events has increased. Seattle experienced its hottest day in recorded history on June 28th, 2021 when temperatures peaked at 108°. Before 2021, Seattle had only experienced 4 days over 100° ever. There were 3 days where temperatures reached over 100° in 2021. Extreme Heat, exasurbated by Urban Heat Islands, has a disproportionate affect on the cities most vulnerable populations. 
+Seattle has a historically temperate climate, but in recent years, due to anthropogenic climate change, the prevelence of extreme weather events has increased. Seattle experienced its hottest day in recorded history on June 28th, 2021 when temperatures peaked at 108°. Before 2021, Seattle had only experienced 4 days over 100° ever. There were 3 days where temperatures reached over 100° in 2021. Extreme Heat, exasurbated by Urban Heat Islands, have negative health a disproportionate affect the cities most vulnerable populations. The effects of Urban Heat Islands can increase air temperature in an city by between 2 and 8°C (Mohajerani et. al, 2017).
 
 ### METHODOLOGY
+According to a body of scientific research (include sources), the largest contributors to the Urban Heat Island effect are prevelance of dark surfaces, building density, lack of vegitation or tree canopy, and increased air pollution. This report attempts to measure, normalize, and weight the prevelance of these factors to model areas of the city that will experience hotter temperatures and be more vulnerable to extreme heat events. 
 
-### Urban Canopy
+### Urban Canopy: 
 
-### Air Pollution
+### Air Pollution:
 
-### Impervious Surfaces
+### Dark Surfaces:
 
-### DATA ANALYSIS
+### Building Density/ Thermal Mass
+
+### Weighting Model
 
 ### KEY FINDINGS
+
+### LIMITATIONS AND NEXT STEPS
 
 ### REFERENCES
 You can use the [editor on GitHub](https://github.com/katie-fallon/Project_CP255/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

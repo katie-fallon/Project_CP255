@@ -1,8 +1,15 @@
 # Modeling the Urban Heat Island Effect in Seattle
 
-## Research Question
+### Research Question
 What areas of Seattle are more likely to experience hotter temperatures due to the Urban Heat Island Effect? 
 
+### Methedology
+
+### Data Analysis
+
+### Key Findings
+
+### References
 You can use the [editor on GitHub](https://github.com/katie-fallon/Project_CP255/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

@@ -1,3 +1,4 @@
+# Predicting Heat: 
 # Modeling the Urban Heat Island Effect in Seattle
 
 ### RESEARCH QUESTION
@@ -6,7 +7,8 @@ What areas of Seattle are more likely to experience hotter temperatures due to t
 Urban Heat Islands (UHI), which cause higher temperatures in urban areas, are the result of a high concentration of impervious surfaces that absorb heat, density of buildings coupled with a lack of vegetation, and pollutants trapped in the atmosphere from industry and vehicle emissions. UHIs not only lead to warmer temperatures in cities but increase energy emissions and can lead to heat-related injuries and even death. While UHIs are not solely caused by Climate Change they are exasperated by an increased frequency of extreme heat events. This project attempts to model areas of the City that will be more vulnerable to higher temperatures by measuring risk factors.
 
 ### MOTIVATION
-Seattle has a historically temperate climate, but in recent years, due to anthropomorgenic climate change, the number of extremely hot days has increased. Seattle experienced its hottest day in recorded history on 
+Seattle has a historically temperate climate, but in recent years, due to anthropomorgenic climate change, the prevelence of extreme weather events has increased. Seattle experienced its hottest day in recorded history on June 28th, 2021 when temperatures peaked at 108°. Before 2021, Seattle had only experienced 4 days over 100° ever. There were 3 days where temperatures reached over 100° in 2021. Extreme Heat, exasurbated by Urban Heat Islands, has a disproportionate affect on the cities most vulnerable populations. 
+
 ### METHODOLOGY
 
 ### Urban Canopy

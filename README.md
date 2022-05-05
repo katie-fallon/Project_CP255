@@ -1,15 +1,25 @@
 # Modeling the Urban Heat Island Effect in Seattle
 
-### Research Question
+## Research Question
 What areas of Seattle are more likely to experience hotter temperatures due to the Urban Heat Island Effect? 
 
-### Methedology
+Urban Heat Islands (UHI), which cause higher temperatures in urban areas, are the result of a high concentration of impervious surfaces that absorb heat, a lack of vegetation, and pollutants trapped in the atmosphere from industry and vehicle emissions. UHIs not only lead to warmer temperatures in cities but increase energy emissions and can lead to heat-related injuries and even death. While UHIs are not solely caused by Climate Change they are exasperated by an increased frequency of extreme heat events.
 
-### Data Analysis
+## Motivation
 
-### Key Findings
+## Methedology
 
-### References
+### Urban Canopy
+
+### Air Pollution
+
+### Dark Surfaces
+
+## Data Analysis
+
+## Key Findings
+
+## References
 You can use the [editor on GitHub](https://github.com/katie-fallon/Project_CP255/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

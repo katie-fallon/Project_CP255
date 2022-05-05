@@ -25,10 +25,13 @@ In order to measure the density of the urban canopy, I calculated the number of 
 
 
 ### Air Pollution:
+**Vehicle Traffic**
+**Industrial Areas**
 
 ### Dark Surfaces:
 
 ### Building Density/ Thermal Mass
+<img width="334" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
 
 ### Weighting Model
 

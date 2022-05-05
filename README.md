@@ -2,7 +2,6 @@
 ## Modeling the Urban Heat Island Effect in Seattle
 
 
-
 ### RESEARCH QUESTION
 What areas of Seattle are more likely to experience hotter temperatures due to the Urban Heat Island Effect? 
 
@@ -17,28 +16,36 @@ According to a body of scientific research (include sources), the largest contri
 ### Urban Canopy: 
 To measure urban canopy, I gathered 2015 Street Tree data from the City of Seattle Data portal. It is important to note that trees on park land are not included in the Trees data set (fig. 1).
 
-**Figure 1.**
-<img width="338" alt="Screen Shot 2022-05-05 at 11 04 23 AM" src="https://user-images.githubusercontent.com/98435077/166985457-063d387a-27e4-4ef4-8c01-0c31975c9506.png">
+**Figure 1.** <img width="338" alt="Screen Shot 2022-05-05 at 11 04 23 AM" src="https://user-images.githubusercontent.com/98435077/166985457-063d387a-27e4-4ef4-8c01-0c31975c9506.png">
 
 In order to measure the density of the urban canopy, I calculated the number of trees per census tract and normalized it by the area of each census tract minus the area of park land in each tract. By subtracting park land, which is mostly heavily forested, by the census tract area we can get a better understanding of the true distribution of urban canopy in each census tract.
+
 ### Air Pollution:
 **_Vehicle Traffic_**
 
-**Figure 2.**
-<img width="338" alt="Screen Shot 2022-05-05 at 3 22 44 PM" src="https://user-images.githubusercontent.com/98435077/167034975-1b87f0d8-562f-4e39-ae71-b792dd4fd9a2.png">
+**Figure 2.** <img width="400" alt="Screen Shot 2022-05-05 at 3 22 44 PM" src="https://user-images.githubusercontent.com/98435077/167034975-1b87f0d8-562f-4e39-ae71-b792dd4fd9a2.png">
+
+<img width="287" alt="Screen Shot 2022-05-05 at 4 25 16 PM" src="https://user-images.githubusercontent.com/98435077/167044695-6c7754cb-af52-4fd0-ad57-3ee10f40b161.png">
+
+<img width="299" alt="Screen Shot 2022-05-05 at 4 44 52 PM" src="https://user-images.githubusercontent.com/98435077/167044703-c556a285-dfa0-4a52-99ee-34f12d0fb4b5.png">
 
 **_Industrial Areas_**
 
-**Figure 3.**
+**Figure 3.** <img width="273" alt="Screen Shot 2022-05-05 at 3 31 58 PM" src="https://user-images.githubusercontent.com/98435077/167038304-5ee4ed64-f1d1-4953-b6d4-462a0d3b2aa8.png">
+
+
 
 
 ### Dark Surfaces:
+**Figure 4.**
+<img width="277" alt="Screen Shot 2022-05-05 at 3 43 37 PM" src="https://user-images.githubusercontent.com/98435077/167038243-ef64971f-5e02-44bd-be95-2bb279021acf.png">
+
+<img width="287" alt="Screen Shot 2022-05-05 at 4 16 53 PM" src="https://user-images.githubusercontent.com/98435077/167044724-84e690d6-47df-4dc8-9c64-6776025f3c1a.png">
 
 ### Building Density/ Thermal Mass
 Nearly half of all developable land in Seattle is zoned for single family housing (Adlin, 2021). While upzoning or building denser is typically heralded as a solution to urban sprawl and a way to reduce green house gas emissions, denser, larger buildings also absorb more heat. As a proxy to understand the effects of dense urban development on UHI, I analyzed the cities zoning code, combined areas of the city that are zoned as Commercial, Downtown, Mixed Use, Multi-Family Housing, and Major Institutions into a dense urban development category. While zoning is not a perfect proxy for thermal mass, it gives us a strong indication of where denser urban development exists in the city.
 
-**Figure 4.**
-<img width="338" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
+**Figure 5.** <img width="350" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
 
 ### Weighting and Combining Data
 

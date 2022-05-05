@@ -24,18 +24,21 @@ In order to measure the density of the urban canopy, I calculated the number of 
 ### Air Pollution:
 **_Vehicle Traffic_**
 
-**Figure 3.**
-<img width="293" alt="Screen Shot 2022-05-05 at 3 22 44 PM" src="https://user-images.githubusercontent.com/98435077/167034975-1b87f0d8-562f-4e39-ae71-b792dd4fd9a2.png">
+**Figure 2.**
+<img width="338" alt="Screen Shot 2022-05-05 at 3 22 44 PM" src="https://user-images.githubusercontent.com/98435077/167034975-1b87f0d8-562f-4e39-ae71-b792dd4fd9a2.png">
 
 **_Industrial Areas_**
+
+**Figure 3.**
+
 
 ### Dark Surfaces:
 
 ### Building Density/ Thermal Mass
 Nearly half of all developable land in Seattle is zoned for single family housing (Adlin, 2021). While upzoning or building denser is typically heralded as a solution to urban sprawl and a way to reduce green house gas emissions, denser, larger buildings also absorb more heat. As a proxy to understand the effects of dense urban development on UHI, I analyzed the cities zoning code, combined areas of the city that are zoned as Commercial, Downtown, Mixed Use, Multi-Family Housing, and Major Institutions into a dense urban development category. While zoning is not a perfect proxy for thermal mass, it gives us a strong indication of where denser urban development exists in the city.
 
-**Figure 3.**
-<img width="334" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
+**Figure 4.**
+<img width="338" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
 
 ### Weighting and Combining Data
 

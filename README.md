@@ -12,13 +12,17 @@ Urban Heat Islands (UHI), which cause higher temperatures in urban areas, are th
 Seattle has a historically temperate climate, but in recent years, due to anthropogenic climate change, the prevelence of extreme weather events has increased. Seattle experienced its hottest day in recorded history on June 28th, 2021 when temperatures peaked at 108°. Before 2021, Seattle had only experienced 4 days over 100° ever. There were 3 days where temperatures reached over 100° in 2021. Extreme Heat, exasurbated by Urban Heat Islands, have negative health a disproportionate affect the cities most vulnerable populations. The effects of Urban Heat Islands can increase air temperature in an city by between 2 and 8°C (Mohajerani et. al, 2017).
 
 ### METHODOLOGY
-According to a body of scientific research (include sources), the largest contributors to the Urban Heat Island effect are prevelance of dark surfaces, building density, lack of vegitation or tree canopy, and increased air pollution. This report attempts to measure, normalize, and weight the prevelance of these factors to model areas of the city that will experience hotter temperatures and be more vulnerable to extreme heat events. 
+According to a body of scientific research (include sources), the largest contributors to the Urban Heat Island effect are prevelance of dark surfaces, building density, lack of vegitation or tree canopy, and increased air pollution. This report attempts to measure, normalize, and weight the prevelance of these factors to model areas of the city that will experience hotter temperatures and be more vulnerable to extreme heat events. Data is aggregated at the Census Tract level. 
 
 ### Urban Canopy: 
 To measure urban canopy, I gathered 2015 Street Tree data from the City of Seattle Data portal. It is important to note that trees on park land are not included in the Trees data set (fig. 1).
 
-Figure 1.
+**Figure 1.**
 <img width="338" alt="Screen Shot 2022-05-05 at 11 04 23 AM" src="https://user-images.githubusercontent.com/98435077/166985457-063d387a-27e4-4ef4-8c01-0c31975c9506.png">
+
+In order to measure the density of the urban canopy, I calculated the number of trees per census tract and normalized it by the area of each census tract minus the area of park land in each tract. By subtracting park land, which is mostly heavily forested, by the census tract area we can get a better understanding of the true distribution of urban canopy in each census tract.
+
+
 
 ### Air Pollution:
 

@@ -1,6 +1,8 @@
 # Predicting Heat: 
 ## Modeling the Urban Heat Island Effect in Seattle
 
+
+
 ### RESEARCH QUESTION
 What areas of Seattle are more likely to experience hotter temperatures due to the Urban Heat Island Effect? 
 
@@ -13,6 +15,7 @@ Seattle has a historically temperate climate, but in recent years, due to anthro
 According to a body of scientific research (include sources), the largest contributors to the Urban Heat Island effect are prevelance of dark surfaces, building density, lack of vegitation or tree canopy, and increased air pollution. This report attempts to measure, normalize, and weight the prevelance of these factors to model areas of the city that will experience hotter temperatures and be more vulnerable to extreme heat events. 
 
 ### Urban Canopy: 
+<img width="338" alt="Screen Shot 2022-05-05 at 11 04 23 AM" src="https://user-images.githubusercontent.com/98435077/166985457-063d387a-27e4-4ef4-8c01-0c31975c9506.png">
 
 ### Air Pollution:
 

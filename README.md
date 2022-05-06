@@ -20,6 +20,8 @@ To measure urban canopy, I gathered 2015 Street Tree data from the City of Seatt
 
 In order to measure the density of the urban canopy, I calculated the number of trees per census tract and normalized it by the area of each census tract minus the area of park land in each tract. By subtracting park land, which is mostly heavily forested, by the census tract area we can get a better understanding of the true distribution of urban canopy in each census tract.
 
+<img width="299" alt="Screen Shot 2022-05-05 at 11 04 57 PM" src="https://user-images.githubusercontent.com/98435077/167076092-bfd1f652-24c0-4bc9-ad5c-7b2fd27fafc0.png">
+
 ### Air Pollution:
 Air pollution traps heat in cities. There are two major forms causes of Urban Air Pollution, vehicle emissions pollution and industrial pollution. 
 **_Vehicle Traffic_**

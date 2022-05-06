@@ -35,8 +35,7 @@ Air pollution traps heat in cities. There are two major forms causes of Urban Ai
 
 **Figure 3.** <img width="273" alt="Screen Shot 2022-05-05 at 3 31 58 PM" src="https://user-images.githubusercontent.com/98435077/167038304-5ee4ed64-f1d1-4953-b6d4-462a0d3b2aa8.png">
 
-
-
+<img width="284" alt="Screen Shot 2022-05-05 at 5 59 31 PM" src="https://user-images.githubusercontent.com/98435077/167050018-9ef15dab-0834-4f61-b375-86979e0f05b2.png">
 
 ### Dark Surfaces:
 **Figure 4.**

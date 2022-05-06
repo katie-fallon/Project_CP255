@@ -20,7 +20,7 @@ A robust urban canopy has been shown to lower urban temperatures, reduce air pol
 
 To measure the density of the urban canopy, I calculated the number of trees per census tract and normalized it by the area of each census tract minus the area of parkland in each tract. It is important to note that trees on parkland are not included in the trees data set, which could skew the data and give the impression that census tracts with large parks have a less dense canopy. By subtracting the area that is parkland, which for the most part is heavily forested, we can get a better understanding of the actual density of urban canopy in each census tract.
 
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 11 04 57 PM" src="https://user-images.githubusercontent.com/98435077/167076092-bfd1f652-24c0-4bc9-ad5c-7b2fd27fafc0.png">
+<img width="400" align="center" alt="Screen Shot 2022-05-05 at 11 04 57 PM" src="https://user-images.githubusercontent.com/98435077/167076092-bfd1f652-24c0-4bc9-ad5c-7b2fd27fafc0.png">
 
 It is clear from fig 2. That North Seattle (north of 85th Street) and the Duwamish River Valley have a sparser urban canopy than wealthier, more central areas of the city like Capitol Hill and Freemont. 
 
@@ -31,15 +31,15 @@ Air pollution is a major contributor to increased temperatures in cities. The re
 
 Vehicle emissions from trucks and passenger vehicles account for 82% of U.S. transportation sector greenhouse gas emissions (EPA). By combining 2018 Seattle streets traffic data with 2018 State highway data, I was able to map the relative vehicle traffic on Seattle Streets.
 
-<img width="400" align="center" alt="Screen Shot 2022-05-05 at 3 22 44 PM" src="https://user-images.githubusercontent.com/98435077/167034975-1b87f0d8-562f-4e39-ae71-b792dd4fd9a2.png">
+<img width="390" align="center" alt="Screen Shot 2022-05-05 at 3 22 44 PM" src="https://user-images.githubusercontent.com/98435077/167034975-1b87f0d8-562f-4e39-ae71-b792dd4fd9a2.png">
 
 According to a recent study, the negative impacts of air pollution from vehicle emissions are most acute within 1,000ft of congested roadways (Barboza, 2017). To visualize the areas most impacted by air pollution from increased traffic, I created a 1,000ft buffer of streets where the Average Annual Daily Traffic (AADT) exceeded 50,000 vehicles. An AADT of 50,000 or higher is generally accepted as the threshold for high-volume routes by the U.S. Department of Transportation.
 
-<img width="400" alt="Screen Shot 2022-05-06 at 3 28 06 PM" src="https://user-images.githubusercontent.com/98435077/167224356-7b33821c-a013-466d-86d9-e9197a4665aa.png">
+<img width="415" alt="Screen Shot 2022-05-06 at 3 39 16 PM" src="https://user-images.githubusercontent.com/98435077/167224724-a9f865e9-48fa-4b90-9059-c80b149901c2.png">
 
 The map above shows the percentage of each census tract within 1,000ft of a high-volume roadway. Highway 99, I-5, I-90, 520, and the West Seattle Bridge, as well as a few other smaller road segments, make up the roads with the highest number of daily trips. Therefore, the communities surrounding these roads are shouldering a disproportionate percentage of vehicle emission pollution in the city.
 
-<img width="291" alt="Screen Shot 2022-05-06 at 3 24 37 PM" src="https://user-images.githubusercontent.com/98435077/167224396-45dee038-9228-4274-908f-54b7b6056493.png">
+<img width="400" alt="Screen Shot 2022-05-06 at 3 24 37 PM" src="https://user-images.githubusercontent.com/98435077/167224396-45dee038-9228-4274-908f-54b7b6056493.png">
 
 Finally, I aggregated the percentage of each census tract within 1,000ft feet of a high-volume route. Since most of these high-volume roadways run north-south through the center of the city, census tracts that border the Puget Sound (west) or Lake Washington (east) are less likely to experience air pollution from vehicle emissions.
 
@@ -47,23 +47,23 @@ Finally, I aggregated the percentage of each census tract within 1,000ft feet of
 
 One of the other largest emitters of air pollution are industrial facilities. Since I couldn’t find a point data set listing all of the industrial emitters, my next best option was to use Seattle City Zoning Maps to isolate industrial zoned land and use it as a proxy for industry location. While this is likely overinclusive in its scope and fails to reveal potential differences between industrial zoned land, it gives us a good picture of where industrial uses take place in the city and, therefore, where air pollution is likely to be higher.
 
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 3 31 58 PM" src="https://user-images.githubusercontent.com/98435077/167038304-5ee4ed64-f1d1-4953-b6d4-462a0d3b2aa8.png">
+<img width="365" align="center" alt="Screen Shot 2022-05-05 at 3 31 58 PM" src="https://user-images.githubusercontent.com/98435077/167038304-5ee4ed64-f1d1-4953-b6d4-462a0d3b2aa8.png">
 
 Like the Road Buffer, the map below shows the percentage of each census tract zoned as industrial. 
 
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 5 59 31 PM" src="https://user-images.githubusercontent.com/98435077/167050018-9ef15dab-0834-4f61-b375-86979e0f05b2.png">
+<img width="390" align="center" alt="Screen Shot 2022-05-05 at 5 59 31 PM" src="https://user-images.githubusercontent.com/98435077/167050018-9ef15dab-0834-4f61-b375-86979e0f05b2.png">
 
 ### Dark Surfaces:
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 3 43 37 PM" src="https://user-images.githubusercontent.com/98435077/167038243-ef64971f-5e02-44bd-be95-2bb279021acf.png">
+<img width="385" align="center" alt="Screen Shot 2022-05-05 at 3 43 37 PM" src="https://user-images.githubusercontent.com/98435077/167038243-ef64971f-5e02-44bd-be95-2bb279021acf.png">
 
-<img width="360" align="center" alt="Screen Shot 2022-05-05 at 4 16 53 PM" src="https://user-images.githubusercontent.com/98435077/167044724-84e690d6-47df-4dc8-9c64-6776025f3c1a.png">
+<img width="400" align="center" alt="Screen Shot 2022-05-05 at 4 16 53 PM" src="https://user-images.githubusercontent.com/98435077/167044724-84e690d6-47df-4dc8-9c64-6776025f3c1a.png">
 
 ### Building Density/ Thermal Mass
 Nearly half of all developable land in Seattle is zoned for single family housing (Adlin, 2021). While upzoning or building denser is typically heralded as a solution to urban sprawl and a way to reduce green house gas emissions, denser, larger buildings also absorb more heat. As a proxy to understand the effects of dense urban development on UHI, I analyzed the cities zoning code, combined areas of the city that are zoned as Commercial, Downtown, Mixed Use, Multi-Family Housing, and Major Institutions into a dense urban development category. While zoning is not a perfect proxy for thermal mass, it gives us a strong indication of where denser urban development exists in the city.
 
-<img width="350" align="center" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
+<img width="400" align="center" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
 
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 5 25 28 PM" src="https://user-images.githubusercontent.com/98435077/167048127-1835258e-df68-440e-a57a-bd0ff099fb0b.png">
+<img width="390" align="center" alt="Screen Shot 2022-05-05 at 5 25 28 PM" src="https://user-images.githubusercontent.com/98435077/167048127-1835258e-df68-440e-a57a-bd0ff099fb0b.png">
 
 ### Weighting and Combining Data
 

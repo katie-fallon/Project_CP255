@@ -35,11 +35,11 @@ Vehicle emissions from trucks and passenger vehicles account for 82% of U.S. tra
 
 According to a recent study, the negative impacts of air pollution from vehicle emissions are most acute within 1,000ft of congested roadways (Barboza, 2017). To visualize the areas most impacted by air pollution from increased traffic, I created a 1,000ft buffer of streets where the Average Annual Daily Traffic (AADT) exceeded 50,000 vehicles. An AADT of 50,000 or higher is generally accepted as the threshold for high-volume routes by the U.S. Department of Transportation.
 
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 4 25 16 PM" src="https://user-images.githubusercontent.com/98435077/167044695-6c7754cb-af52-4fd0-ad57-3ee10f40b161.png">
+<img width="400" alt="Screen Shot 2022-05-06 at 3 28 06 PM" src="https://user-images.githubusercontent.com/98435077/167224356-7b33821c-a013-466d-86d9-e9197a4665aa.png">
 
 The map above shows the percentage of each census tract within 1,000ft of a high-volume roadway. Highway 99, I-5, I-90, 520, and the West Seattle Bridge, as well as a few other smaller road segments, make up the roads with the highest number of daily trips. Therefore, the communities surrounding these roads are shouldering a disproportionate percentage of vehicle emission pollution in the city.
 
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 4 50 57 PM" src="https://user-images.githubusercontent.com/98435077/167045549-f0081083-e9a3-4628-9907-168f9d32ca9b.png">
+<img width="291" alt="Screen Shot 2022-05-06 at 3 24 37 PM" src="https://user-images.githubusercontent.com/98435077/167224396-45dee038-9228-4274-908f-54b7b6056493.png">
 
 Finally, I aggregated the percentage of each census tract within 1,000ft feet of a high-volume route. Since most of these high-volume roadways run north-south through the center of the city, census tracts that border the Puget Sound (west) or Lake Washington (east) are less likely to experience air pollution from vehicle emissions.
 
@@ -54,7 +54,6 @@ Like the Road Buffer, the map below shows the percentage of each census tract zo
 <img width="375" align="center" alt="Screen Shot 2022-05-05 at 5 59 31 PM" src="https://user-images.githubusercontent.com/98435077/167050018-9ef15dab-0834-4f61-b375-86979e0f05b2.png">
 
 ### Dark Surfaces:
-**Figure 4.**
 <img width="375" align="center" alt="Screen Shot 2022-05-05 at 3 43 37 PM" src="https://user-images.githubusercontent.com/98435077/167038243-ef64971f-5e02-44bd-be95-2bb279021acf.png">
 
 <img width="360" align="center" alt="Screen Shot 2022-05-05 at 4 16 53 PM" src="https://user-images.githubusercontent.com/98435077/167044724-84e690d6-47df-4dc8-9c64-6776025f3c1a.png">
@@ -62,15 +61,14 @@ Like the Road Buffer, the map below shows the percentage of each census tract zo
 ### Building Density/ Thermal Mass
 Nearly half of all developable land in Seattle is zoned for single family housing (Adlin, 2021). While upzoning or building denser is typically heralded as a solution to urban sprawl and a way to reduce green house gas emissions, denser, larger buildings also absorb more heat. As a proxy to understand the effects of dense urban development on UHI, I analyzed the cities zoning code, combined areas of the city that are zoned as Commercial, Downtown, Mixed Use, Multi-Family Housing, and Major Institutions into a dense urban development category. While zoning is not a perfect proxy for thermal mass, it gives us a strong indication of where denser urban development exists in the city.
 
-**Figure 5.** <img width="350" align="center" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
+<img width="350" align="center" alt="Screen Shot 2022-05-05 at 11 57 56 AM" src="https://user-images.githubusercontent.com/98435077/167005201-89782b50-f629-48c0-97b8-b89242a65b1b.png">
 
-**Figure 6.** <img width="375" align="center" alt="Screen Shot 2022-05-05 at 5 25 28 PM" src="https://user-images.githubusercontent.com/98435077/167048127-1835258e-df68-440e-a57a-bd0ff099fb0b.png">
+<img width="375" align="center" alt="Screen Shot 2022-05-05 at 5 25 28 PM" src="https://user-images.githubusercontent.com/98435077/167048127-1835258e-df68-440e-a57a-bd0ff099fb0b.png">
 
 ### Weighting and Combining Data
 
 ### KEY FINDINGS
-<img width="375" align="center" alt="Screen Shot 2022-05-05 at 11 13 39 PM" src="https://user-images.githubusercontent.com/98435077/167077112-b76e7f79-6c47-44a7-99ba-a02514a45efb.png">
-
+<img width="375" alt="Screen Shot 2022-05-06 at 3 31 52 PM" src="https://user-images.githubusercontent.com/98435077/167224323-1a3e974c-28c7-4030-a046-ff1070ea3c15.png">
 
 ### LIMITATIONS AND NEXT STEPS
 

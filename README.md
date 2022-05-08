@@ -16,7 +16,7 @@ According to a body of scientific research (include sources), the most significa
 ### Urban Canopy: 
 A robust urban canopy has been shown to lower urban temperatures, reduce air pollution, and preserve biodiversity (United Nations, 2018). When areas lack tree coverage, they are more likely to experience warmer temperatures. To compare urban canopies throughout the city, I gathered 2015 street tree data from an inventory created by the City of Seattle that cataloged the location, condition, and ownership of every street tree in the city. While this data set is several years old, it is the most recent and comprehensive available data set on street trees in the city. 
 
-<img width="373" alt="Screen Shot 2022-05-07 at 2 54 51 PM" src="https://user-images.githubusercontent.com/98435077/167273102-e25e2b43-cebe-4a13-9232-92a127bdf83f.png">
+<img width="369" alt="Screen Shot 2022-05-07 at 2 54 51 PM" src="https://user-images.githubusercontent.com/98435077/167317725-e0f3bb3d-db58-4600-b697-0a86f47bd7b5.png">
 
 To measure the density of the urban canopy, I calculated the number of trees per census tract and normalized it by the area of each census tract minus the area of parkland in each tract. It is important to note that trees on parkland are not included in the trees data set, which could skew the data and give the impression that census tracts with large parks have a less dense canopy. By subtracting the area that is parkland, which for the most part is heavily forested, we can get a better understanding of the actual density of urban canopy in each census tract.
 
@@ -31,7 +31,7 @@ Air pollution is a major contributor to increased temperatures in cities. The re
 
 Vehicle emissions from trucks and passenger vehicles account for 82% of U.S. transportation sector greenhouse gas emissions (EPA). By combining 2018 Seattle streets traffic data with 2018 State highway data, I was able to map the relative vehicle traffic on Seattle Streets.
 
-<img width="374" alt="Screen Shot 2022-05-07 at 2 56 35 PM" src="https://user-images.githubusercontent.com/98435077/167273115-0196ca95-3036-4874-b7c8-be9365f04e92.png">
+<img width="369" alt="Screen Shot 2022-05-08 at 3 02 46 PM" src="https://user-images.githubusercontent.com/98435077/167317708-edb5591a-2c7e-43c3-8908-fcfaedf15bbc.png">
 
 According to a recent study, the negative impacts of air pollution from vehicle emissions are most acute within 1,000ft of congested roadways (Barboza, 2017). To visualize the areas most impacted by air pollution from increased traffic, I created a 1,000ft buffer of streets where the Average Annual Daily Traffic (AADT) exceeded 50,000 vehicles. An AADT of 50,000 or higher is generally accepted as the threshold for high-volume routes by the U.S. Department of Transportation.
 
@@ -54,9 +54,10 @@ Like the Road Buffer, the map below shows the percentage of each census tract zo
 <img width="373" alt="Screen Shot 2022-05-07 at 2 58 29 PM" src="https://user-images.githubusercontent.com/98435077/167273147-29e71c13-f65c-419a-98ce-32226392a9d2.png">
 
 ### Dark Surfaces:
-<img width="373" alt="Screen Shot 2022-05-07 at 2 58 57 PM" src="https://user-images.githubusercontent.com/98435077/167273176-f1f7035a-c2ce-46bc-a458-07b69252019e.png">
 
-<img width="373" alt="Screen Shot 2022-05-07 at 2 59 09 PM" src="https://user-images.githubusercontent.com/98435077/167273180-b4d9942b-0ae0-4939-8588-04f9da755956.png">
+<img width="369" alt="Screen Shot 2022-05-08 at 3 03 12 PM" src="https://user-images.githubusercontent.com/98435077/167317686-7aac3ee1-42e8-4674-8e52-446aa03e9e0f.png">
+
+<img width="369" alt="Screen Shot 2022-05-08 at 3 03 40 PM" src="https://user-images.githubusercontent.com/98435077/167317666-85d9332b-ae88-4667-afce-b090b13244e0.png">
 
 ### Building Density/ Thermal Mass
 Nearly half of all developable land in Seattle is zoned for single family housing (Adlin, 2021). While upzoning or building denser is typically heralded as a solution to urban sprawl and a way to reduce green house gas emissions, denser, larger buildings also absorb more heat. As a proxy to understand the effects of dense urban development on UHI, I analyzed the cities zoning code, combined areas of the city that are zoned as Commercial, Downtown, Mixed Use, Multi-Family Housing, and Major Institutions into a dense urban development category. While zoning is not a perfect proxy for thermal mass, it gives us a strong indication of where denser urban development exists in the city.
@@ -69,7 +70,7 @@ Nearly half of all developable land in Seattle is zoned for single family housin
 
 ### KEY FINDINGS
 
-<img width="374" alt="Screen Shot 2022-05-07 at 3 00 50 PM" src="https://user-images.githubusercontent.com/98435077/167273195-29c0663c-b635-4b98-8a68-92bb342fcce5.png">
+<img width="368" alt="Screen Shot 2022-05-08 at 3 04 17 PM" src="https://user-images.githubusercontent.com/98435077/167317649-de12d4d5-1632-4f2c-9bbf-c7318dbbfd49.png">
 
 ### LIMITATIONS AND NEXT STEPS
 

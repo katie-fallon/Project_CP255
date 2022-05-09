@@ -1,4 +1,4 @@
-# Predicting Heat: 
+# Predicting Heat Risk: 
 ## Modeling the Urban Heat Island Effect in Seattle
 <img width="938" alt="Screen Shot 2022-05-05 at 5 31 50 PM" src="https://user-images.githubusercontent.com/98435077/167048212-b24f039c-a111-4453-838c-3ecd62a5404c.png">
 

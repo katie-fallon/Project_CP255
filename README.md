@@ -5,10 +5,10 @@
 ### RESEARCH QUESTION
 What areas of Seattle are more likely to experience hotter temperatures due to the Urban Heat Island Effect? Do Urban Heat Islands disproportionately impact already disadvantaged communities?
 
-Urban Heat Islands (UHI), which cause higher temperatures in urban areas when compared to rural or suburban areas, are the result of a high concentration of impervious surfaces that absorb heat, density of buildings coupled with a lack of vegetation, and pollutants trapped in the atmosphere from industry and vehicle emissions. UHIs not only lead to warmer temperatures in cities but increase energy emissions and can lead to heat-related injuries and even death. While Urban Heat Islands are not solely created or caused by Climate Change, UHIs are exasperated by an increased frequency of extreme heat events. This project attempts to model areas of the city that will be more vulnerable to higher temperatures by measuring, weighting, and aggregating UHI risk factors. These results are then compared to the Office of Planning and Community Development’s (OPCD) Racial and Social Equity Index to analyze if disadvantaged communities are more likely to experience higher temperatures.
+Urban Heat Islands (UHI), which cause higher temperatures in urban areas when compared to rural or suburban areas, are the result of a high concentration of impervious surfaces that absorb heat, density of buildings coupled with a lack of vegetation, and pollutants trapped in the atmosphere from industry and vehicle emissions. UHIs not only lead to warmer temperatures in cities but increase energy emissions and can lead to heat-related injuries and even death. While Urban Heat Islands are not solely created or caused by Climate Change, UHIs are exacerbated by an increased frequency of extreme heat events. This project attempts to model areas of the city that will be more vulnerable to higher temperatures by measuring, weighting, and aggregating UHI risk factors. These results are then compared to the Office of Planning and Community Development’s (OPCD) Racial and Social Equity Index to analyze if disadvantaged communities are more likely to experience higher temperatures.
 
 ### MOTIVATION
-Seattle has a historically temperate climate, but in recent years, due to anthropogenic climate change, the number of extreme heat events has increased. Seattle experienced its hottest day in recorded history on June 28th, 2021, when temperatures peaked at 108°. Before 2021, Seattle had only recorded four days where temperatures peaked over 100°. There were three such days in 2021. The effects of Urban Heat Islands can increase the air temperature in a city by between 2 and 8°C (Mohajerani et al., 2017) and exacerbate heat-related health risks for vulnerable populations. As a famously rainy city, Seattle is entirely unprepared to handle and respond to extreme heat. By identifying areas that are more vulnerable to increased temperatures due to the Urban Heat Island Effect, this project seeks to expose spatial inequities and encourage government intervention to reduce the severity of UHIs.
+Seattle has a historically temperate climate, but in recent years, due to anthropogenic climate change, the number of extreme heat events has increased. Seattle experienced its hottest day in recorded history on June 28th, 2021, when temperatures peaked at 108°. Before 2021, Seattle had only recorded four days where temperatures peaked over 100°. There were three such days in 2021. The effects of Urban Heat Islands can increase the air temperature in a city by between 2 and 8°C and exacerbate heat-related health risks for vulnerable populations (Mohajerani et al., 2017) . As a famously rainy city, Seattle is entirely unprepared to handle and respond to extreme heat. By identifying areas that are more vulnerable to increased temperatures due to the Urban Heat Island Effect, this project seeks to expose spatial inequities and encourage government intervention to reduce the severity of UHIs.
 
 
 ### METHODOLOGY & ANALYSIS
@@ -29,7 +29,7 @@ To measure the density of the urban canopy, I calculated the number of trees per
   <img width="373" alt="Screen Shot 2022-05-07 at 2 55 23 PM" src="https://user-images.githubusercontent.com/98435077/167273106-adc34715-5a9a-4bfc-b1a0-39ba217505c8.png">
 </p>
 
-It is clear from fig 2. That North Seattle (north of 85th Street) and the Duwamish River Valley have a sparser urban canopy than wealthier, more central areas of the city like Capitol Hill and Freemont.
+It is clear that North Seattle (north of 85th Street) and the Duwamish River Valley have a sparser urban canopy than wealthier, more central areas of the city like Capitol Hill and Freemont. If you are unfamiliar with Seattle Geography please see Appendix A for a map of places mentioned in this report.
 
 ### Air Pollution:
 Air pollution is a significant contributor to increased temperatures in cities. The release of greenhouse gases through air pollutants is not only a significant cause of climate change, but it also has acute warming effects on the areas surrounding the pollution source. This project focuses on vehicle emissions pollution and industrial pollution as together they are responsible for over half of air pollution in cities (Fast Facts, 2019).
@@ -54,7 +54,7 @@ The map above shows the percentage of each census tract within 1,000ft of a high
   <img width="373" alt="Screen Shot 2022-05-07 at 2 57 40 PM" src="https://user-images.githubusercontent.com/98435077/167273134-cf0e320b-fd66-43b8-9a37-2f5c1729c132.png">
 </p>
 
-Finally, I aggregated the percentage of each census tract within 1,000ft feet of a high-volume route. Since most of these high-volume roadways run north-south through the city's center, census tracts that border the Puget Sound (west) or Lake Washington (east) are less likely to experience air pollution from vehicle emissions.
+Finally, I aggregated the percentage of each census tract within 1,000 feet of a high-volume route. Since most of these high-volume roadways run north-south through the city's center, census tracts that border the Puget Sound (west) or Lake Washington (east) are less likely to experience air pollution from vehicle emissions.
 
 **_Industrial Areas_**
 
@@ -130,17 +130,20 @@ I used the City of Seattle’s Office of Planning & Community Development’s Ra
 To compare Heat Risk from UHI to the Racial and Social Equity Index, I took the centroid of each census tract and created a proportional symbols map of the Racial and Social Equity Index that I then overlayed on top of the Heat Risk map. The larger the circle, the more disadvantaged the census tract is. 
 
 ### CONCLUSION:
-### Already Disadvantaged Census Tracts are more likely to experience Higher Temperatures
+### _Already Disadvantaged Census Tracts are More likely to Experience Higher Temperatures_
 
 <p align="center">
   <img width="368" alt="Screen Shot 2022-05-08 at 9 31 45 PM" src="https://user-images.githubusercontent.com/98435077/167453605-658bb59a-97ed-4779-be6d-cabf76967d01.png">
 </p>
 
-While vulnerability does not perfectly predict heat, there seems to be a correlation between heat risk and areas of the city that are disadvantaged. Areas of the city that are the least disadvantaged are also often the least likely to experience the worst effects of UHI. While there are outliers in this trend, like Eastlake Union, it is clear that already vulnerable areas of the city will become more vulnerable as the prevalence of extreme events increases.
+While vulnerability does not perfectly predict heat, there seems to be a correlation between heat risk and areas of the city that are disadvantaged. Areas of the city that are the least disadvantaged are also often the least likely to experience the worst effects of UHI. While there are outliers in this trend, like West and Eastlake Union, it is clear that already vulnerable areas of the city will become more vulnerable as the prevalence of extreme events increases.
 
 The City of Seattle should prioritize implementing strategies to reduce the Urban Heat Island effect in census tracts that have higher vulnerability and a high risk for heat. Interventions to reduce temperatures could include increasing shading by planting more trees, implementing policy to install green roofs, and promoting the design of passive buildings (Foster, 2020).  While it is essential to reduce the effects of UHI throughout the city, to reduce historical and existing inequities, the city must prioritize low-income and majority BIPOC neighborhoods that have worse health outcomes. 
 
 ### APPENDIX A – Reference Map
+<p align="center">
+  <img width="325" alt="Screen Shot 2022-05-09 at 2 55 24 PM" src="https://user-images.githubusercontent.com/98435077/167505186-bbbdd1a8-d9ad-4cdf-8492-4eb05afc4097.png">
+</p>
 
 ### REFERENCES
 

@@ -29,7 +29,7 @@ To measure the density of the urban canopy, I calculated the number of trees per
   <img width="373" alt="Screen Shot 2022-05-07 at 2 55 23 PM" src="https://user-images.githubusercontent.com/98435077/167273106-adc34715-5a9a-4bfc-b1a0-39ba217505c8.png">
 </p>
 
-It is clear that North Seattle (north of 85th Street) and the Duwamish River Valley have a sparser urban canopy than wealthier, more central areas of the city like Capitol Hill and Freemont. If you are unfamiliar with Seattle Geography please see Appendix A for a map of places mentioned in this report.
+It is clear that North Seattle (north of 85th Street) and the Duwamish River Valley have a sparser urban canopy than wealthier, more central areas of the city like Capitol Hill and Fremont. If you are unfamiliar with Seattle Geography please see Appendix A for a map of places mentioned in this report.
 
 ### Air Pollution:
 Air pollution is a significant contributor to increased temperatures in cities. The release of greenhouse gases through air pollutants is not only a significant cause of climate change, but it also has acute warming effects on the areas surrounding the pollution source. This project focuses on vehicle emissions pollution and industrial pollution as together they are responsible for over half of air pollution in cities (Fast Facts, 2019).
@@ -142,7 +142,7 @@ The City of Seattle should prioritize implementing strategies to reduce the Urba
 
 ### APPENDIX A – Reference Map
 <p align="center">
-  <img width="325" alt="Screen Shot 2022-05-09 at 2 55 24 PM" src="https://user-images.githubusercontent.com/98435077/167505186-bbbdd1a8-d9ad-4cdf-8492-4eb05afc4097.png">
+  <img width="285" alt="Screen Shot 2022-05-09 at 3 12 16 PM" src="https://user-images.githubusercontent.com/98435077/167507242-992afb00-1574-4721-9aab-2ced342036ba.png">
 </p>
 
 ### REFERENCES

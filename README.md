@@ -16,7 +16,7 @@ According to a body of scientific research (include sources), the most significa
 ### Urban Canopy: 
 A robust urban canopy has been shown to lower urban temperatures, reduce air pollution, and preserve biodiversity (United Nations, 2018). When areas lack tree coverage, they are more likely to experience warmer temperatures. To compare urban canopies throughout the city, I gathered 2015 street tree data from an inventory created by the City of Seattle that cataloged the location, condition, and ownership of every street tree in the city. While this data set is several years old, it is the most recent and comprehensive available data set on street trees in the city. 
 
-<img width="369" alt="Screen Shot 2022-05-07 at 2 54 51 PM" src="https://user-images.githubusercontent.com/98435077/167317725-e0f3bb3d-db58-4600-b697-0a86f47bd7b5.png">
+<img width="371" alt="Screen Shot 2022-05-08 at 3 02 24 PM" src="https://user-images.githubusercontent.com/98435077/167323027-44fe57f2-3611-4fee-af90-7cd37db4213e.png">
 
 To measure the density of the urban canopy, I calculated the number of trees per census tract and normalized it by the area of each census tract minus the area of parkland in each tract. It is important to note that trees on parkland are not included in the trees data set, which could skew the data and give the impression that census tracts with large parks have a less dense canopy. By subtracting the area that is parkland, which for the most part is heavily forested, we can get a better understanding of the actual density of urban canopy in each census tract.
 

@@ -87,11 +87,11 @@ This made the range of all values across all the data sets fall between 0 and 1,
 
 Next, I weighted each data set by how big of a role it plays in the severity of the Urban Heat Island effect. I determined weights based on my research of how much each factor influences UHI and how accurately I think the data reflects the true metric I am trying to measure. For example, the Industrial and Higher Density Development maps were given lower weights because they provide rougher pictures of the true nature of air pollution and urban density, respectively. The weights are as follows:
 
-	Urban Canopy: .30
-  Air Pollution from Vehicle Traffic: .25
-	Air Pollution from Industry: .10
-	Surface Type (Asphalt): .20
-	Building Density: .15
+Urban Canopy: **.30**
+Air Pollution from Vehicle Traffic: **.25**
+Air Pollution from Industry: **.10**
+Surface Type (Asphalt): **.20**
+Building Density: **.15**
   
 Once the weights were applied, I combined the five values to create an Urban Heat Island risk score for each census tract. All normalized and weighted vehicle traffic, industry, surface type, and building density data were added together to increase risk scores, the urban canopy data set was subtracted to reduce overall risk scores. This is also why census tracts can have net negative risk scores.
 

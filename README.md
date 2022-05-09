@@ -17,7 +17,7 @@ According to a body of scientific research, the most significant contributors to
 The data used is aggregated at the Census Tract level. While this is helpful in understanding general UHI risk throughout the city, it does not allow us to see more nuanced differences within census tracts. Future studies could benefit from using a smaller unit of aggregation in their analysis.
 
 ### Urban Canopy: 
-A robust urban canopy has been shown to lower urban temperatures, reduce air pollution, and preserve biodiversity (United Nations, 2018). When areas lack tree coverage, they are more likely to experience warmer temperatures. To compare urban canopies throughout the city, I gathered 2015 street tree data from an inventory created by the City of Seattle that cataloged every street tree's location, condition, and ownership. While this data set is several years old, it is the most recent and comprehensive available data set on street trees in the city.
+A robust urban canopy has been shown to lower urban temperatures, reduce air pollution, and preserve biodiversity (Rethinking the Future of Cities, 2018). When areas lack tree coverage, they are more likely to experience warmer temperatures. To compare urban canopies throughout the city, I gathered 2015 street tree data from an inventory created by the City of Seattle that cataloged every street tree's location, condition, and ownership. While this data set is several years old, it is the most recent and comprehensive available data set on street trees in the city.
 
 <img width="371" alt="Screen Shot 2022-05-08 at 3 02 24 PM" src="https://user-images.githubusercontent.com/98435077/167323027-44fe57f2-3611-4fee-af90-7cd37db4213e.png">
 
@@ -28,11 +28,11 @@ To measure the density of the urban canopy, I calculated the number of trees per
 It is clear from fig 2. That North Seattle (north of 85th Street) and the Duwamish River Valley have a sparser urban canopy than wealthier, more central areas of the city like Capitol Hill and Freemont.
 
 ### Air Pollution:
-Air pollution is a significant contributor to increased temperatures in cities. The release of greenhouse gases through air pollutants is not only a significant cause of climate change, but it also has acute warming effects on the areas surrounding the pollution source. This project focuses on vehicle emissions pollution and industrial pollution as together they are responsible for over half of air pollution in cities (EPA).
+Air pollution is a significant contributor to increased temperatures in cities. The release of greenhouse gases through air pollutants is not only a significant cause of climate change, but it also has acute warming effects on the areas surrounding the pollution source. This project focuses on vehicle emissions pollution and industrial pollution as together they are responsible for over half of air pollution in cities (Fast Facts, 2019).
 
 **_Vehicle Traffic_**
 
-Vehicle emissions from trucks and passenger vehicles account for 82% of U.S. transportation sector greenhouse gas emissions (EPA). By combining 2018 Seattle streets traffic data with 2018 state highway data, I was able to map the relative vehicle traffic on Seattle Streets.
+Vehicle emissions from trucks and passenger vehicles account for 82% of U.S. transportation sector greenhouse gas emissions (Fast Facts, 2019). By combining 2018 Seattle streets traffic data with 2018 state highway data, I was able to map the relative vehicle traffic on Seattle Streets.
 
 <img width="369" alt="Screen Shot 2022-05-08 at 3 02 46 PM" src="https://user-images.githubusercontent.com/98435077/167317708-edb5591a-2c7e-43c3-8908-fcfaedf15bbc.png">
 
@@ -57,7 +57,7 @@ A majority of Seattle’s Industrial zoned land surrounds the Duwamish River, an
 <img width="373" alt="Screen Shot 2022-05-07 at 2 58 29 PM" src="https://user-images.githubusercontent.com/98435077/167273147-29e71c13-f65c-419a-98ce-32226392a9d2.png">
 
 ### Dark Surfaces:
-Asphalt Concrete (AC) plays a significant role in higher urban temperatures. Asphalt has a lower albedo than other types of pavements. It is less reflective and absorbs more heat leading to increased street temperatures (Mohajerani et al., 2017). ![image](https://user-images.githubusercontent.com/98435077/167346294-e634d910-e86f-4fc3-82fb-7da791be9e3b.png)
+Asphalt Concrete (AC) plays a significant role in higher urban temperatures. Asphalt has a lower albedo than other types of pavements. It is less reflective and absorbs more heat leading to increased street temperatures (Mohajerani et al., 2017). 
 
 <img width="369" alt="Screen Shot 2022-05-08 at 3 03 12 PM" src="https://user-images.githubusercontent.com/98435077/167317686-7aac3ee1-42e8-4674-8e52-446aa03e9e0f.png">
 
@@ -100,6 +100,8 @@ Once the weights were applied, I combined the five values to create an Urban Hea
 <img width="368" alt="Screen Shot 2022-05-08 at 3 04 17 PM" src="https://user-images.githubusercontent.com/98435077/167317649-de12d4d5-1632-4f2c-9bbf-c7318dbbfd49.png">
 
 ### Already Disadvantaged Census Tracts are more likely to experience Higher Temperatures
+
+<img width="368" alt="Screen Shot 2022-05-08 at 9 31 45 PM" src="https://user-images.githubusercontent.com/98435077/167453605-658bb59a-97ed-4779-be6d-cabf76967d01.png">
 
 ### CONCLUSION
 

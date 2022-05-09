@@ -106,9 +106,29 @@ Once the weights were applied, I combined the five values to create an Urban Hea
 ### CONCLUSION
 
 ### REFERENCES
-You can use the [editor on GitHub](https://github.com/katie-fallon/Project_CP255/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Adlin, Ben, editor. “Seattle renames ‘single-family’ zoning designation to emphasize neighborhood diversity.” South Seattle Emerald, 6 Oct. 2021, https://southseattleemerald.com/2021/10/06/seattle-renames-single-family-zoning-designation-to-emphasize-neighborhood-diversity/. 
+
+2. Badger, Emily, and Quoctrung Bui. “Cities Start to Question an American Ideal: A House with a Yard on Every Lot.” The New York Times, 18 June 2019, https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html 
+
+3. Barboza, Tony. “Freeway Pollution Travels Farther than We Thought. Here's How to Protect Yourself.” LA Times, 30 Dec. 2017, https://www.latimes.com/local/california/la-me-freeway-pollution-what-you-can-do-20171230-htmlstory.html. 
+
+4. Beekman, Daniel. “Seattle’s Long-Standing ‘Urban Village’ Strategy for Growth Needs Reworking, New Report Says.” The Seattle Times, 27 July 2021, https://www.seattletimes.com/seattle-news/politics/seattles-longstanding-urban-village-strategy-for-growth-needs-reworking-new-report-says/. 
+
+5. “Fast Facts on Transportation Greenhouse Gas Emissions.” EPA, Environmental Protection Agency, 2019, https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions. 
+
+6. “Highway Performance Monitoring System (HPMS).” U.S. Department of Transportation/Federal Highway Administration, Office of Highway Policy Information, 7 Nov. 2014, https://www.fhwa.dot.gov/policyinformation/hpms/volumeroutes/ch5.cfm#:~:text=5.1.&text=The%20definition%20of%20high%2Dvolume,the%20same%20across%20all%20states.
+
+7. Mohajerani, Abbas, et al. “The Urban Heat Island Effect, Its Causes, and Mitigation, with Reference to the Thermal Properties of Asphalt Concrete.” Journal of Environmental Management, vol. 197, 15 July 2017, pp. 522–538., https://doi.org/10.1016/j.jenvman.2017.03.095. 
+
+8. Ng, Edward, et al. “A Study on the Cooling Effects of Greening in a High-Density City: An Experience from Hong Kong.” Building and Environment, vol. 47, 2011 July 2011, pp. 256–271., https://doi.org/10.1016/j.buildenv.2011.07.014. 
+
+9. Penny, Janelle. “6 Causes of Urban Heat Islands and 4 Ways to Offset Them.” Buildings, 10 July 2019, https://www.buildings.com/articles/27532/6-causes-urban-heat-islands-and-4-ways-offset-them. 
+
+10. “Rethinking the Future of Cities.” Food and Agriculture Organization of the United Nations, FAO, 21 Mar. 2018, https://www.fao.org/fao-stories/article/en/c/1106849/?utm_source=twitter&utm_medium=social%2Bmedia&utm_campaign=fao. 
+
+11. SDOT. Pavement Management: Seattle Pavement Types and Condition, Seattle Department of Transportation, Seattle, Washington. 
+
 
 ### Markdown
 

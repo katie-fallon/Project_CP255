@@ -154,9 +154,9 @@ The City of Seattle should prioritize implementing strategies to reduce the Urba
 
 5. “Fast Facts on Transportation Greenhouse Gas Emissions.” EPA, Environmental Protection Agency, 2019, https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions. 
   
-6. Foster, Emily. “Four Approaches to Reducing the Urban Heat Island Effect.” Urban Land, Urban Land Institute, 6 June 2020, https://urbanland.uli.org/sustainability/four-approaches-to-reducing-the-urban-heat-island-effect/.![image](https://user-images.githubusercontent.com/98435077/167502496-23ab5790-82f8-4ae0-a6ae-441e1d93998a.png)
+6. Foster, Emily. “Four Approaches to Reducing the Urban Heat Island Effect.” Urban Land, Urban Land Institute, 6 June 2020, https://urbanland.uli.org/sustainability/four-approaches-to-reducing-the-urban-heat-island-effect/.
 
-7. “Highway Performance Monitoring System (HPMS).” U.S. Department of Transportation/Federal Highway Administration, Office of Highway Policy Information, 7 Nov. 2014, https://www.fhwa.dot.gov/policyinformation/hpms/volumeroutes/ch5.cfm#:~:text=5.1.&text=The%20definition%20of%20high%2Dvolume,the%20same%20across%20all%20states.
+7. “Highway Performance Monitoring System (HPMS).” U.S. Department of Transportation/Federal Highway Administration, Office of Highway Policy Information, 7 Nov. 2014, https://www.fhwa.dot.gov/policyinformation/hpms/volumeroutes.
 
 8. Mohajerani, Abbas, et al. “The Urban Heat Island Effect, Its Causes, and Mitigation, with Reference to the Thermal Properties of Asphalt Concrete.” Journal of Environmental Management, vol. 197, 15 July 2017, pp. 522–538., https://doi.org/10.1016/j.jenvman.2017.03.095. 
 

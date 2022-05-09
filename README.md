@@ -19,11 +19,15 @@ The data used is aggregated at the Census Tract level. While this is helpful in 
 ### Urban Canopy: 
 A robust urban canopy has been shown to lower urban temperatures, reduce air pollution, and preserve biodiversity (Rethinking the Future of Cities, 2018). When areas lack tree coverage, they are more likely to experience warmer temperatures. To compare urban canopies throughout the city, I gathered 2015 street tree data from an inventory created by the City of Seattle that cataloged every street tree's location, condition, and ownership. While this data set is several years old, it is the most recent and comprehensive available data set on street trees in the city.
 
-<img width="371" alt="Screen Shot 2022-05-08 at 3 02 24 PM" src="https://user-images.githubusercontent.com/98435077/167323027-44fe57f2-3611-4fee-af90-7cd37db4213e.png">
+<p align="center">
+  <img width="371" alt="Screen Shot 2022-05-08 at 3 02 24 PM" src="https://user-images.githubusercontent.com/98435077/167323027-44fe57f2-3611-4fee-af90-7cd37db4213e.png">
+</p>
 
 To measure the density of the urban canopy, I calculated the number of trees per census tract and normalized it by the area of each census tract minus the area of parkland in each tract. It is important to note that trees on parkland are not included in the trees data set, which could skew the data and give the impression that census tracts with large parks have a less dense canopy. By subtracting the area that is parkland, which for the most part is heavily forested, we can get a better understanding of the actual density of urban canopy in each census tract.
 
-<img width="373" alt="Screen Shot 2022-05-07 at 2 55 23 PM" src="https://user-images.githubusercontent.com/98435077/167273106-adc34715-5a9a-4bfc-b1a0-39ba217505c8.png">
+<p align="center">
+  <img width="373" alt="Screen Shot 2022-05-07 at 2 55 23 PM" src="https://user-images.githubusercontent.com/98435077/167273106-adc34715-5a9a-4bfc-b1a0-39ba217505c8.png">
+</p>
 
 It is clear from fig 2. That North Seattle (north of 85th Street) and the Duwamish River Valley have a sparser urban canopy than wealthier, more central areas of the city like Capitol Hill and Freemont.
 
@@ -34,7 +38,9 @@ Air pollution is a significant contributor to increased temperatures in cities. 
 
 Vehicle emissions from trucks and passenger vehicles account for 82% of U.S. transportation sector greenhouse gas emissions (Fast Facts, 2019). By combining 2018 Seattle streets traffic data with 2018 state highway data, I was able to map the relative vehicle traffic on Seattle Streets.
 
-<img width="369" alt="Screen Shot 2022-05-08 at 3 02 46 PM" src="https://user-images.githubusercontent.com/98435077/167317708-edb5591a-2c7e-43c3-8908-fcfaedf15bbc.png">
+<p align="center">
+  <img width="369" alt="Screen Shot 2022-05-08 at 3 02 46 PM" src="https://user-images.githubusercontent.com/98435077/167317708-edb5591a-2c7e-43c3-8908-fcfaedf15bbc.png">
+ </p>
 
 According to a recent study, the negative impacts of air pollution from vehicle emissions are most acute within 1,000ft of congested roadways (Barboza, 2017). To visualize the areas most impacted by air pollution from increased traffic, I created a 1,000ft buffer of streets where the Average Annual Daily Traffic (AADT) exceeded 50,000 vehicles. An AADT of 50,000 or higher is generally accepted as the threshold for high-volume routes by the U.S. Department of Transportation. 
 

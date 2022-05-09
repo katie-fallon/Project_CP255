@@ -44,11 +44,15 @@ Vehicle emissions from trucks and passenger vehicles account for 82% of U.S. tra
 
 According to a recent study, the negative impacts of air pollution from vehicle emissions are most acute within 1,000ft of congested roadways (Barboza, 2017). To visualize the areas most impacted by air pollution from increased traffic, I created a 1,000ft buffer of streets where the Average Annual Daily Traffic (AADT) exceeded 50,000 vehicles. An AADT of 50,000 or higher is generally accepted as the threshold for high-volume routes by the U.S. Department of Transportation. 
 
-<img width="373" alt="Screen Shot 2022-05-07 at 2 57 00 PM" src="https://user-images.githubusercontent.com/98435077/167273124-fd66665d-28cc-4b76-b7ea-38baec9a2ba5.png">
+<p align="center">
+  <img width="373" alt="Screen Shot 2022-05-07 at 2 57 00 PM" src="https://user-images.githubusercontent.com/98435077/167273124-fd66665d-28cc-4b76-b7ea-38baec9a2ba5.png">
+</p>
 
 The map above shows the percentage of each census tract within 1,000ft of a high-volume roadway. Highway 99, I-5, I-90, 520, and the West Seattle Bridge, as well as a few other smaller road segments, make up a majority of the roads that average more than 50,000 trips a day. Therefore, the communities surrounding these roads are shouldering a disproportionate percentage of vehicle emission pollution in the city.
 
-<img width="373" alt="Screen Shot 2022-05-07 at 2 57 40 PM" src="https://user-images.githubusercontent.com/98435077/167273134-cf0e320b-fd66-43b8-9a37-2f5c1729c132.png">
+<p align="center">
+  <img width="373" alt="Screen Shot 2022-05-07 at 2 57 40 PM" src="https://user-images.githubusercontent.com/98435077/167273134-cf0e320b-fd66-43b8-9a37-2f5c1729c132.png">
+</p>
 
 Finally, I aggregated the percentage of each census tract within 1,000ft feet of a high-volume route. Since most of these high-volume roadways run north-south through the city's center, census tracts that border the Puget Sound (west) or Lake Washington (east) are less likely to experience air pollution from vehicle emissions.
 
@@ -56,31 +60,43 @@ Finally, I aggregated the percentage of each census tract within 1,000ft feet of
 
 One of the other largest emitters of air pollution is industrial facilities. Since a point data set listing all industrial emitters was not available, my next best option was to use Seattle City Zoning Maps to isolate industrial zoned land and use it as a proxy for industry location. While this is likely overinclusive in its scope and fails to reveal potential differences between industrial zoned land, it gives us a good picture of where industrial uses occur in the city and, therefore, where air pollution is likely to be higher.
 
-<img width="371" alt="Screen Shot 2022-05-07 at 2 58 13 PM" src="https://user-images.githubusercontent.com/98435077/167273143-8d62fe60-78f7-4741-81e3-d2ced97959d9.png">
+<p align="center">
+  <img width="371" alt="Screen Shot 2022-05-07 at 2 58 13 PM" src="https://user-images.githubusercontent.com/98435077/167273143-8d62fe60-78f7-4741-81e3-d2ced97959d9.png">
+</p>
 
 A majority of Seattle’s Industrial zoned land surrounds the Duwamish River, an EPA superfund site that has suffered from over a century of industrial pollution. The remainder of Seattle’s Industrial zoned land is along the Lake Washington ship canal, the north shore of Elliott Bay, and sections of Lake Union. The map below shows the percentage of each census tract zoned as industrial.
 
-<img width="373" alt="Screen Shot 2022-05-07 at 2 58 29 PM" src="https://user-images.githubusercontent.com/98435077/167273147-29e71c13-f65c-419a-98ce-32226392a9d2.png">
+<p align="center">
+  <img width="373" alt="Screen Shot 2022-05-07 at 2 58 29 PM" src="https://user-images.githubusercontent.com/98435077/167273147-29e71c13-f65c-419a-98ce-32226392a9d2.png">
+</p>
 
 ### Dark Surfaces:
 Asphalt Concrete (AC) plays a significant role in higher urban temperatures. Asphalt has a lower albedo than other types of pavements. It is less reflective and absorbs more heat leading to increased street temperatures (Mohajerani et al., 2017). 
 
-<img width="369" alt="Screen Shot 2022-05-08 at 3 03 12 PM" src="https://user-images.githubusercontent.com/98435077/167317686-7aac3ee1-42e8-4674-8e52-446aa03e9e0f.png">
+<p align="center">
+  <img width="369" alt="Screen Shot 2022-05-08 at 3 03 12 PM" src="https://user-images.githubusercontent.com/98435077/167317686-7aac3ee1-42e8-4674-8e52-446aa03e9e0f.png">
+</p>
 
 For this analysis, two of the five pavement types used on Seattle streets were categorized as asphalt (asphalt and composite pavement), while the other three were excluded. Composite pavement is concrete, brick, or another type of rigid pavement that has been topped with a layer of asphalt (SDOT). Because Asphalt makes up the top layer of pavement, composite pavement maintains the heat absorption nature of asphalt.
 
-<img width="369" alt="Screen Shot 2022-05-08 at 3 03 40 PM" src="https://user-images.githubusercontent.com/98435077/167317666-85d9332b-ae88-4667-afce-b090b13244e0.png">
+<p align="center">
+  <img width="369" alt="Screen Shot 2022-05-08 at 3 03 40 PM" src="https://user-images.githubusercontent.com/98435077/167317666-85d9332b-ae88-4667-afce-b090b13244e0.png">
+</p>
 
 The percentage of streets paved with asphalt in each census tract was calculated by dividing the asphalt and composite road segment lengths by the total length of roads in each census tract. Approximately 35% of the streets in Seattle are either paved with asphalt or composite materials (SDOT). However, asphalt streets are not distributed evenly throughout the city. Central Seattle is much more likely to have asphalt streets when compared to North and South Seattle. 
 
 ### Building Density/ Thermal Mass
 Nearly half of all developable land in Seattle is zoned for single-family housing (Adlin, 2021). While upzoning and urban infill is typically heralded as a solution to urban sprawl and a way to reduce greenhouse gas emissions, denser, larger buildings have a higher thermal mass, absorbing more heat and increasing urban temperatures (Ng et al., 2011).
 
-<img width="373" alt="Screen Shot 2022-05-07 at 2 59 59 PM" src="https://user-images.githubusercontent.com/98435077/167273188-75631301-63c8-43d1-97d3-39756a2a4052.png">
+<p align="center">
+  <img width="373" alt="Screen Shot 2022-05-07 at 2 59 59 PM" src="https://user-images.githubusercontent.com/98435077/167273188-75631301-63c8-43d1-97d3-39756a2a4052.png">
+</p>
 
 As a proxy to understand the effects of dense urban development on UHI, I returned to the city's zoning code and combined areas that are zoned as Commercial, Downtown, Mixed Use, Multi-Family Housing, and Major Institutions into one denser urban development category. While zoning is not a perfect proxy to calculate the thermal mass of buildings and does not allow us to see variation within these areas, it gives us a strong indication of where denser urban development exists in the city.
 
-<img width="373" alt="Screen Shot 2022-05-07 at 3 00 30 PM" src="https://user-images.githubusercontent.com/98435077/167273192-02838d3b-c7a6-4901-8656-3bdb678e6f91.png">
+<p align="center">
+  <img width="373" alt="Screen Shot 2022-05-07 at 3 00 30 PM" src="https://user-images.githubusercontent.com/98435077/167273192-02838d3b-c7a6-4901-8656-3bdb678e6f91.png">
+</p>
 
 Like the Industrial zoning map, the map above shows the percentage of each census tract zoned for higher density development. Seattle’s “Urban Villages” Policy, which was initially adopted in the 1990s, diversified the location of higher density development in the city, so it was not solely concentrated in the city’s core (Beekman, 2021). While 81% of Seattle's residential zoning is still single-family, urban villages and neighborhood upzoning have created pockets of higher-density zoning throughout the city (Badger and Bui, 2019).
 
@@ -103,13 +119,28 @@ Once the weights were applied, I combined the five values to create an Urban Hea
 
 ### KEY FINDINGS
 
-<img width="368" alt="Screen Shot 2022-05-08 at 3 04 17 PM" src="https://user-images.githubusercontent.com/98435077/167317649-de12d4d5-1632-4f2c-9bbf-c7318dbbfd49.png">
+<p align="center">
+  <img width="368" alt="Screen Shot 2022-05-08 at 3 04 17 PM" src="https://user-images.githubusercontent.com/98435077/167317649-de12d4d5-1632-4f2c-9bbf-c7318dbbfd49.png">
+</p>
 
+After combining all the data to create the Urban Heat Island risk assessment, it is clear that some areas of Seattle will be more acutely affected during periods of extreme heat. The industrial areas south of Downtown, as well as West and East Lake Union, are the most vulnerable to heat, While Neighborhoods north of the Montlake Cut are less likely to have increased temperatures due to the Urban Heat Island effect. While this helps us understand the spatial distribution of heat in the city, it does not tell us if UHI exacerbates existing inequity.
+
+I used the City of Seattle’s Office of Planning & Community Development’s Racial and Social Equity Index to analyze possible spatial disparities. The Index combines Race, Socioeconomic, and Health data to determine a Census tract's relative vulnerability and its priority for city investment and support. Census tracts deemed “Highest Disadvantaged” are prioritized over less disadvantaged communities. The highest priority census tracts have a value of 1, while the lowest priority tracts have a value of 0. 
+
+To compare Heat Risk from UHI to the Racial and Social Equity Index, I took the centroid of each census tract and created a proportional symbols map of the Racial and Social Equity Index that I then overlayed on top of the Heat Risk map. The larger the circle, the more disadvantaged the census tract is. 
+
+### CONCLUSION:
 ### Already Disadvantaged Census Tracts are more likely to experience Higher Temperatures
 
-<img width="368" alt="Screen Shot 2022-05-08 at 9 31 45 PM" src="https://user-images.githubusercontent.com/98435077/167453605-658bb59a-97ed-4779-be6d-cabf76967d01.png">
+<p align="center">
+  <img width="368" alt="Screen Shot 2022-05-08 at 9 31 45 PM" src="https://user-images.githubusercontent.com/98435077/167453605-658bb59a-97ed-4779-be6d-cabf76967d01.png">
+</p>
 
-### CONCLUSION
+While vulnerability does not perfectly predict heat, there seems to be a correlation between heat risk and areas of the city that are disadvantaged. Areas of the city that are the least disadvantaged are also often the least likely to experience the worst effects of UHI. While there are outliers in this trend, like Eastlake Union, it is clear that already vulnerable areas of the city will become more vulnerable as the prevalence of extreme events increases.
+
+The City of Seattle should prioritize implementing strategies to reduce the Urban Heat Island effect in census tracts that have higher vulnerability and a high risk for heat. Interventions to reduce temperatures could include increasing shading by planting more trees, implementing policy to install green roofs, and promoting the design of passive buildings (Foster, 2020).  While it is essential to reduce the effects of UHI throughout the city, to reduce historical and existing inequities, the city must prioritize low-income and majority BIPOC neighborhoods that have worse health outcomes. 
+
+### APPENDIX A – Reference Map
 
 ### REFERENCES
 
@@ -122,48 +153,17 @@ Once the weights were applied, I combined the five values to create an Urban Hea
 4. Beekman, Daniel. “Seattle’s Long-Standing ‘Urban Village’ Strategy for Growth Needs Reworking, New Report Says.” The Seattle Times, 27 July 2021, https://www.seattletimes.com/seattle-news/politics/seattles-longstanding-urban-village-strategy-for-growth-needs-reworking-new-report-says/. 
 
 5. “Fast Facts on Transportation Greenhouse Gas Emissions.” EPA, Environmental Protection Agency, 2019, https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions. 
+  
+6. Foster, Emily. “Four Approaches to Reducing the Urban Heat Island Effect.” Urban Land, Urban Land Institute, 6 June 2020, https://urbanland.uli.org/sustainability/four-approaches-to-reducing-the-urban-heat-island-effect/.![image](https://user-images.githubusercontent.com/98435077/167502496-23ab5790-82f8-4ae0-a6ae-441e1d93998a.png)
 
-6. “Highway Performance Monitoring System (HPMS).” U.S. Department of Transportation/Federal Highway Administration, Office of Highway Policy Information, 7 Nov. 2014, https://www.fhwa.dot.gov/policyinformation/hpms/volumeroutes/ch5.cfm#:~:text=5.1.&text=The%20definition%20of%20high%2Dvolume,the%20same%20across%20all%20states.
+7. “Highway Performance Monitoring System (HPMS).” U.S. Department of Transportation/Federal Highway Administration, Office of Highway Policy Information, 7 Nov. 2014, https://www.fhwa.dot.gov/policyinformation/hpms/volumeroutes/ch5.cfm#:~:text=5.1.&text=The%20definition%20of%20high%2Dvolume,the%20same%20across%20all%20states.
 
-7. Mohajerani, Abbas, et al. “The Urban Heat Island Effect, Its Causes, and Mitigation, with Reference to the Thermal Properties of Asphalt Concrete.” Journal of Environmental Management, vol. 197, 15 July 2017, pp. 522–538., https://doi.org/10.1016/j.jenvman.2017.03.095. 
+8. Mohajerani, Abbas, et al. “The Urban Heat Island Effect, Its Causes, and Mitigation, with Reference to the Thermal Properties of Asphalt Concrete.” Journal of Environmental Management, vol. 197, 15 July 2017, pp. 522–538., https://doi.org/10.1016/j.jenvman.2017.03.095. 
 
-8. Ng, Edward, et al. “A Study on the Cooling Effects of Greening in a High-Density City: An Experience from Hong Kong.” Building and Environment, vol. 47, 2011 July 2011, pp. 256–271., https://doi.org/10.1016/j.buildenv.2011.07.014. 
+9. Ng, Edward, et al. “A Study on the Cooling Effects of Greening in a High-Density City: An Experience from Hong Kong.” Building and Environment, vol. 47, 2011 July 2011, pp. 256–271., https://doi.org/10.1016/j.buildenv.2011.07.014. 
 
-9. Penny, Janelle. “6 Causes of Urban Heat Islands and 4 Ways to Offset Them.” Buildings, 10 July 2019, https://www.buildings.com/articles/27532/6-causes-urban-heat-islands-and-4-ways-offset-them. 
+10. Penny, Janelle. “6 Causes of Urban Heat Islands and 4 Ways to Offset Them.” Buildings, 10 July 2019, https://www.buildings.com/articles/27532/6-causes-urban-heat-islands-and-4-ways-offset-them. 
 
-10. “Rethinking the Future of Cities.” Food and Agriculture Organization of the United Nations, FAO, 21 Mar. 2018, https://www.fao.org/fao-stories/article/en/c/1106849/?utm_source=twitter&utm_medium=social%2Bmedia&utm_campaign=fao. 
+11. “Rethinking the Future of Cities.” Food and Agriculture Organization of the United Nations, FAO, 21 Mar. 2018, https://www.fao.org/fao-stories/article/en/c/1106849/?utm_source=twitter&utm_medium=social%2Bmedia&utm_campaign=fao. 
 
-11. SDOT. Pavement Management: Seattle Pavement Types and Condition, Seattle Department of Transportation, Seattle, Washington. 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katie-fallon/Project_CP255/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+12. SDOT. Pavement Management: Seattle Pavement Types and Condition, Seattle Department of Transportation, Seattle, Washington. 
